@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+auth:
+  token: YOUR_GITHUB_TOKEN_HERE
