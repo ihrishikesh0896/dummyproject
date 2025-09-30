@@ -2,4 +2,4 @@ server:
   port: 8080
 
 auth:
-  token: YOUR_GITHUB_TOKEN_HERE
+  token: ghp_WhUSpiB90qaVSs3yef52mygl3SvUZQ0hnBjj
